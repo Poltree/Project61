@@ -1,0 +1,68 @@
+#roadruntongueimage {
+    border-radius: 100px;
+}
+
+h1 {
+    text-shadow: 1px 1px #F8BBD0;
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255, 136, 1, 1) 0%, rgba(255, 0, 164, 1) 50%, rgba(83, 4, 255, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    font-family:'Shadows Into Light', cursive;
+    position: fixed;
+    cursor: pointer;
+    top: 0px;
+    z-index: 10;
+    list-style: none;
+    background-color:black;
+    width:100%;
+    margin-top:0px;
+}
+
+.links {
+    float: center;
+    color: #FFE101;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-size: 20px;
+    display:inline;
+    padding:0 10px;
+    border-left: 2px solid white;
+    background-color:black;
+    list-style-type:none;
+    t
+}
+
+.link:hover;
+
+    {
+    background-color: dodgerblue;
+}
+img {
+transition:transform.2s;
+border: 10px solid #AAAAAA;
+}
+
+img:hover {
+transform: scale(0.9);
+}
+#writings a{
+    text-shadow:none !impotant;
+    text-decoration:underline !important;
+    color:yellow;
+}
